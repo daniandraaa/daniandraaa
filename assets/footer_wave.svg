@@ -1,0 +1,10 @@
+<svg width="854" height="90" viewBox="0 0 854 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7e22ce" stop-opacity="0.7" />
+      <stop offset="50%" stop-color="#4f46e5" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.7" />
+    </linearGradient>
+  </defs>
+  <path d="M0,40 Q213,0 427,35 T854,15 L854,90 L0,90 Z" fill="url(#footGrad)"/>
+</svg>
