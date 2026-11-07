@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- ANIMATED CAPSULE HERO HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=220&section=header&text=Daniandra%20Prayudisty%20Ilham&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20Owner%20at%20Yudiaz%20Creative%20Studio%20•%20AI%20Systems%20%26%20Software%20Engineer&descFontSize=18&descAlignY=58&descAlign=50" width="100%"/>
+<!-- ANIMATED CAPSULE HERO HEADER (100% CLEAN XML) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=220&section=header&text=Daniandra%20Prayudisty%20Ilham&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20and%20Owner%20at%20Yudiaz%20Creative%20Studio%20%7C%20AI%20Systems%20and%20Software%20Engineer&descFontSize=18&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- TYPING ANIMATION BANNER -->
 <a href="https://daniandraaa.my.id">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=900&height=50&lines=Founder+%26+Owner+at+Yudiaz+Creative+Studio;AI+Systems+Architect+%7C+Deep+Learning+Researcher;Founder+%26+Ex-CEO+at+Community+Support+Center+Tel-U;Ex-QA+Engineering+Intern+at+PT+XL+Axiata+Tbk;Building+Sovereign+Autonomous+Multi-Agent+Clusters" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=900&height=50&lines=Founder+and+Owner+at+Yudiaz+Creative+Studio;AI+Systems+Architect+%7C+Deep+Learning+Researcher;Founder+and+Ex-CEO+at+Community+Support+Center+Tel-U;Ex-QA+Engineering+Intern+at+PT+XL+Axiata+Tbk;Building+Sovereign+Autonomous+Multi-Agent+Clusters" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -137,15 +137,6 @@ As **Founder & Owner of Yudiaz Creative Studio**, I orchestrate an autonomous C-
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniandraaa&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="55%" />
-
-<br/><br/>
-
-<!-- ANIMATED SNAKE EATING GITHUB CONTRIBUTIONS GRAPH -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniandraaa/daniandraaa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniandraaa/daniandraaa/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/daniandraaa/daniandraaa/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
 
 </div>
 
