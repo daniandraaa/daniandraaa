@@ -1,0 +1,28 @@
+<svg width="650" height="45" viewBox="0 0 650 45" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes typing0 { 0%, 18% { opacity: 1; } 20%, 100% { opacity: 0; } }
+    @keyframes typing1 { 0%, 19% { opacity: 0; } 20%, 38% { opacity: 1; } 40%, 100% { opacity: 0; } }
+    @keyframes typing2 { 0%, 39% { opacity: 0; } 40%, 58% { opacity: 1; } 60%, 100% { opacity: 0; } }
+    @keyframes typing3 { 0%, 59% { opacity: 0; } 60%, 78% { opacity: 1; } 80%, 100% { opacity: 0; } }
+    @keyframes typing4 { 0%, 79% { opacity: 0; } 80%, 98% { opacity: 1; } 100% { opacity: 0; } }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    .text-phrase { font-family: 'Fira Code', 'JetBrains Mono', 'Segoe UI Mono', monospace; font-size: 17px; font-weight: 600; fill: #38bdf8; }
+    .cursor { font-family: monospace; font-size: 19px; font-weight: bold; fill: #38bdf8; animation: blink 0.8s infinite; }
+  </style>
+  <g class="text-phrase" style="animation: typing0 12s infinite;">
+    <text x="0" y="28">Founder &amp; Owner at Yudiaz Creative Studio</text>
+  </g>
+  <g class="text-phrase" style="animation: typing1 12s infinite;">
+    <text x="0" y="28">AI Systems Architect | Deep Learning Researcher</text>
+  </g>
+  <g class="text-phrase" style="animation: typing2 12s infinite;">
+    <text x="0" y="28">Founder &amp; Ex-CEO at Community Support Center Tel-U</text>
+  </g>
+  <g class="text-phrase" style="animation: typing3 12s infinite;">
+    <text x="0" y="28">OPES Scholar at Telkom University</text>
+  </g>
+  <g class="text-phrase" style="animation: typing4 12s infinite;">
+    <text x="0" y="28">Ex-QA Engineering Intern at PT XL Axiata Tbk</text>
+  </g>
+  <text x="540" y="28" class="cursor">|</text>
+</svg>

@@ -1,27 +1,27 @@
 <div align="center">
 
-<!-- LOCAL 100% RELIABLE HEADER WAVE -->
+<!-- ANIMATED HEADER WAVE -->
 <img src="https://raw.githubusercontent.com/daniandraaa/daniandraaa/main/assets/header_wave.svg" width="100%" alt="Daniandra Prayudisty Ilham Header" />
 
-<!-- PROFILE IDENTITY CARD -->
+<!-- PROFILE IDENTITY CARD (AUTHENTIC STUDIO PORTRAIT) -->
 <table>
   <tr>
-    <td align="center" width="200" style="border: none;">
+    <td align="center" width="220" style="border: none;">
       <a href="https://daniandraaa.my.id">
-        <img src="https://raw.githubusercontent.com/daniandraaa/daniandraaa/main/assets/daniandra_avatar_ring.png" width="170" alt="Daniandra Prayudisty Ilham" />
+        <img src="https://raw.githubusercontent.com/daniandraaa/daniandraaa/main/assets/daniandra_avatar_ring.png" width="180" alt="Daniandra Prayudisty Ilham" />
       </a>
       <br/>
       <b>Daniandra Prayudisty</b><br/>
       <sub>Founder &amp; Owner @ Yudiaz</sub>
     </td>
     <td style="border: none; padding-left: 20px;">
-      <!-- TYPING ANIMATION BANNER -->
+      <!-- HIGH-PERFORMANCE TYPING ANIMATION -->
       <a href="https://daniandraaa.my.id">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&vCenter=true&random=false&width=620&height=40&lines=Founder+%26+Owner+at+Yudiaz+Creative+Studio;AI+Systems+Architect+%7C+Deep+Learning+Researcher;Founder+%26+Ex-CEO+at+Community+Support+Center+Tel-U;Ex-QA+Engineering+Intern+at+PT+XL+Axiata+Tbk;Building+Sovereign+Autonomous+Agent+Clusters" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&vCenter=true&random=false&width=620&height=40&lines=Founder+%26+Owner+at+Yudiaz+Creative+Studio;AI+Systems+Architect+%7C+Deep+Learning+Researcher;Founder+%26+Ex-CEO+at+Community+Support+Center+Tel-U;OPES+Scholar+at+Telkom+University;Ex-QA+Engineering+Intern+at+PT+XL+Axiata+Tbk;Building+Sovereign+Autonomous+Agent+Clusters" alt="Typing SVG" />
       </a>
       <br/>
       <p>
-        Informatics Scholar at <b>Telkom University</b> (OPES Scholarship) &amp; Founder of <b>Yudiaz Creative Studio</b>. Berfokus pada rekayasa sistem kecerdasan buatan otonom, riset <i>Deep Learning</i> (Hybrid CNN-Transformer &amp; XAI), dan arsitektur cloud berkinerja tinggi.
+        Informatics Scholar at <b>Telkom University</b> (OPES Scholarship) &amp; Founder of <b>Yudiaz Creative Studio</b>. Berfokus pada arsitektur sistem kecerdasan buatan otonom, riset <i>Deep Learning</i> (Hybrid CNN-Transformer &amp; XAI), dan rekayasa cloud berkinerja tinggi.
       </p>
       <!-- SOCIAL & BADGES -->
       <a href="https://daniandraaa.my.id"><img src="https://img.shields.io/badge/Portfolio-daniandraaa.my.id-0284c7?style=flat-square&logo=google-chrome&logoColor=white" /></a>
@@ -32,6 +32,18 @@
   </tr>
 </table>
 
+</div>
+
+---
+
+### 🐍 Contribution Activity Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniandraaa/daniandraaa/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniandraaa/daniandraaa/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/daniandraaa/daniandraaa/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 ---
@@ -51,8 +63,8 @@
 
 ### 🧠 Riset Deep Learning &amp; Arsitektur Utama
 
-- **Hybrid CNN-Transformer**: Riset arsitektur yang memadukan ekstraksi fitur spasial konvolusional (CNN) dengan *multi-head attention* Transformer untuk lokalisasi kontraksi ventrikel prematur (PVC) pada data medis.
-- **Explainable AI (XAI / SHAP &amp; Grad-CAM)**: Audit interpretasi peta atensi saraf tiruan untuk memverifikasi transparansi penalaran model medis.
+- **Hybrid CNN-Transformer**: Riset arsitektur yang memadukan ekstraksi fitur spasial konvolusional (CNN) dengan *multi-head attention* Transformer untuk lokalisasi anomali ventrikel jantung (PVC) secara presisi.
+- **Explainable AI (XAI / SHAP &amp; Grad-CAM)**: Audit interpretasi peta atensi saraf tiruan untuk memvalidasi transparansi pengambilan keputusan model medis.
 - **Sovereign Multi-Agent Architecture**: Orkestrasi kluster agen AI terdesentralisasi (Daffa CEO, Raziel CTO, Elara Ops, Jovan Intel, Orca LaTeX) yang beroperasi mandiri pada infrastruktur cloud VPS berkinerja tinggi.
 
 ---
