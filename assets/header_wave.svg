@@ -1,24 +1,18 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Deep Obsidian Studio Background -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#030712" />
+      <stop offset="0%" stop-color="#020617" />
       <stop offset="50%" stop-color="#0b1120" />
-      <stop offset="100%" stop-color="#020617" />
+      <stop offset="100%" stop-color="#030712" />
     </linearGradient>
 
-    <!-- Metallic Gold & Cyan Dynamic Gradients -->
-    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#fbbf24" />
-      <stop offset="35%" stop-color="#fef08a" />
-      <stop offset="70%" stop-color="#f59e0b" />
-      <stop offset="100%" stop-color="#d97706" />
-    </linearGradient>
-
-    <linearGradient id="auroraGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.25" />
-      <stop offset="40%" stop-color="#6366f1" stop-opacity="0.20" />
-      <stop offset="100%" stop-color="#a855f7" stop-opacity="0.10" />
+    <!-- Metallic Cyan & Violet Dynamic Gradients -->
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="35%" stop-color="#818cf8" />
+      <stop offset="70%" stop-color="#c084fc" />
+      <stop offset="100%" stop-color="#38bdf8" />
     </linearGradient>
 
     <linearGradient id="laserLine" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -29,66 +23,72 @@
       <stop offset="100%" stop-color="#c084fc" stop-opacity="0" />
     </linearGradient>
 
-    <!-- Subtle Technical Grid Pattern -->
+    <!-- Technical Grid Pattern -->
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255, 255, 255, 0.03)" stroke-width="1" />
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255, 255, 255, 0.04)" stroke-width="1" />
     </pattern>
 
-    <!-- Blur Filters for Ambient Light Orbs -->
+    <!-- Ambient Glow Filters -->
     <filter id="glowCyan" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="80" />
+      <feGaussianBlur stdDeviation="75" />
     </filter>
     <filter id="glowPurple" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="90" />
+      <feGaussianBlur stdDeviation="85" />
     </filter>
   </defs>
 
   <!-- Base Plate -->
-  <rect width="1200" height="320" rx="16" fill="url(#bgGrad)" />
-  <rect width="1200" height="320" rx="16" fill="url(#grid)" />
+  <rect width="1200" height="340" rx="16" fill="url(#bgGrad)" />
+  <rect width="1200" height="340" rx="16" fill="url(#grid)" />
 
-  <!-- Ambient Luxury Glow Orbs -->
-  <circle cx="200" cy="80" r="140" fill="#0284c7" opacity="0.3" filter="url(#glowCyan)" />
-  <circle cx="1000" cy="180" r="160" fill="#7c3aed" opacity="0.25" filter="url(#glowPurple)" />
+  <!-- Ambient Light Orbs with Pulsing Glow -->
+  <circle cx="180" cy="90" r="150" fill="#0284c7" opacity="0.35" filter="url(#glowCyan)">
+    <animate attributeName="opacity" values="0.25;0.45;0.25" dur="4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1020" cy="190" r="170" fill="#7c3aed" opacity="0.3" filter="url(#glowPurple)">
+    <animate attributeName="opacity" values="0.2;0.4;0.2" dur="5s" repeatCount="indefinite" />
+  </circle>
 
-  <!-- Architectural Laser Boundary Lines -->
-  <line x1="80" y1="45" x2="1120" y2="45" stroke="url(#laserLine)" stroke-width="1" stroke-dasharray="8 6" opacity="0.4" />
-  <line x1="80" y1="275" x2="1120" y2="275" stroke="url(#laserLine)" stroke-width="1" stroke-dasharray="8 6" opacity="0.4" />
+  <!-- Top Laser Boundary Line -->
+  <line x1="80" y1="42" x2="1120" y2="42" stroke="url(#laserLine)" stroke-width="1.5" stroke-dasharray="8 6" opacity="0.6" />
+  <line x1="80" y1="298" x2="1120" y2="298" stroke="url(#laserLine)" stroke-width="1.5" stroke-dasharray="8 6" opacity="0.6" />
 
   <!-- Top Status Badge -->
-  <g transform="translate(600, 75)">
-    <rect x="-190" y="-14" width="380" height="28" rx="14" fill="#0f172a" stroke="rgba(56, 189, 248, 0.4)" stroke-width="1" />
-    <circle cx="-168" cy="0" r="4" fill="#38bdf8">
-      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
+  <g transform="translate(600, 72)">
+    <rect x="-215" y="-15" width="430" height="30" rx="15" fill="#0f172a" stroke="rgba(56, 189, 248, 0.5)" stroke-width="1.2" />
+    <circle cx="-193" cy="0" r="4.5" fill="#38bdf8">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite" />
     </circle>
-    <text x="-152" y="5" fill="#38bdf8" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" font-weight="700" letter-spacing="1.5">SOVEREIGN AI &amp; AUTONOMOUS SYSTEMS</text>
+    <text x="-175" y="5" fill="#38bdf8" font-family="'JetBrains Mono', 'Fira Code', 'Segoe UI', monospace" font-size="11.5" font-weight="700" letter-spacing="1.8">SOVEREIGN AI • MULTI-AGENT CLUSTERS • CLOUD ARCHITECT</text>
   </g>
 
   <!-- Main Headline Typography -->
-  <!-- Subtle Back Glow Text -->
-  <text x="600" y="160" text-anchor="middle" fill="#38bdf8" opacity="0.15" font-family="'Plus Jakarta Sans', -apple-system, system-ui, sans-serif" font-weight="900" font-size="46" letter-spacing="4">
+  <text x="600" y="162" text-anchor="middle" fill="#38bdf8" opacity="0.18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Plus Jakarta Sans', Roboto, sans-serif" font-weight="900" font-size="48" letter-spacing="4">
     DANIANDRA PRAYUDISTY ILHAM
   </text>
-  <!-- Sharp Foreground Text -->
-  <text x="600" y="158" text-anchor="middle" fill="#ffffff" font-family="'Plus Jakarta Sans', -apple-system, system-ui, sans-serif" font-weight="900" font-size="44" letter-spacing="3.5">
+  <text x="600" y="160" text-anchor="middle" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Plus Jakarta Sans', Roboto, sans-serif" font-weight="900" font-size="46" letter-spacing="3.5">
     DANIANDRA PRAYUDISTY ILHAM
   </text>
 
-  <!-- Executive Title with Metallic Accent -->
-  <text x="600" y="205" text-anchor="middle" fill="url(#goldGrad)" font-family="'Plus Jakarta Sans', -apple-system, system-ui, sans-serif" font-weight="700" font-size="16" letter-spacing="3">
+  <!-- Executive Title with Shimmering Gradient -->
+  <text x="600" y="210" text-anchor="middle" fill="url(#glowGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Plus Jakarta Sans', Roboto, sans-serif" font-weight="700" font-size="17" letter-spacing="3.2">
     FOUNDER &amp; OWNER @ YUDIAZ CREATIVE STUDIO
   </text>
 
   <!-- Technical Discipline Specs -->
-  <text x="600" y="235" text-anchor="middle" fill="#94a3b8" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" font-weight="500" letter-spacing="1">
-    DEEP LEARNING (CNN-TRANSFORMER &amp; XAI) • RESILIENT CLOUD ARCHITECTURE • OPES SCHOLAR
+  <text x="600" y="244" text-anchor="middle" fill="#94a3b8" font-family="'JetBrains Mono', 'Fira Code', 'Segoe UI', monospace" font-size="12.5" font-weight="500" letter-spacing="1.2">
+    GOLANG • FLUTTER • DISTRIBUTED SYSTEMS • IOT TELEMETRY • OPES FULL SCHOLAR
   </text>
 
-  <!-- Dynamic Bottom Wave Horizon (Precision Layered Meshes) -->
-  <path d="M0 260 C 300 240, 500 310, 800 270 C 1000 240, 1100 285, 1200 260 L 1200 320 L 0 320 Z" fill="url(#auroraGrad)" />
-  <path d="M0 275 C 350 250, 650 320, 950 280 C 1100 260, 1150 290, 1200 280 L 1200 320 L 0 320 Z" fill="rgba(2, 6, 23, 0.7)" />
-  <path d="M0 290 C 400 270, 700 330, 1000 295 C 1120 280, 1160 300, 1200 295 L 1200 320 L 0 320 Z" fill="#030712" />
+  <!-- Dynamic Waving Aurora Lines at Bottom -->
+  <path d="M0 280 Q 300 250 600 280 T 1200 280 L 1200 340 L 0 340 Z" fill="rgba(56, 189, 248, 0.12)">
+    <animate attributeName="d" values="M0 280 Q 300 250 600 280 T 1200 280 L 1200 340 L 0 340 Z; M0 280 Q 300 300 600 270 T 1200 280 L 1200 340 L 0 340 Z; M0 280 Q 300 250 600 280 T 1200 280 L 1200 340 L 0 340 Z" dur="6s" repeatCount="indefinite" />
+  </path>
+  <path d="M0 295 Q 350 270 700 295 T 1200 295 L 1200 340 L 0 340 Z" fill="rgba(129, 140, 248, 0.18)">
+    <animate attributeName="d" values="M0 295 Q 350 270 700 295 T 1200 295 L 1200 340 L 0 340 Z; M0 295 Q 350 315 700 285 T 1200 295 L 1200 340 L 0 340 Z; M0 295 Q 350 270 700 295 T 1200 295 L 1200 340 L 0 340 Z" dur="8s" repeatCount="indefinite" />
+  </path>
+  <path d="M0 310 Q 400 290 800 310 T 1200 310 L 1200 340 L 0 340 Z" fill="#020617" />
 
   <!-- Outer Luxury Border -->
-  <rect x="0.5" y="0.5" width="1199" height="319" rx="15.5" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" />
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="15.5" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1" />
 </svg>

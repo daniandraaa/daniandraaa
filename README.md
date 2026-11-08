@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- DYNAMIC CAPSULE RENDER ANIMATED HEADER WITH TWINKLING STARS -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20&height=200&section=header&text=Daniandra%20Prayudisty%20Ilham&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20Owner%20@%20Yudiaz%20Creative%20Studio%20%E2%80%A2%20AI%20Systems%20%26%20Cloud%20Architect&descSize=15&descAlignY=62&descAlign=50&animation=twinkling" width="100%" alt="Daniandra Prayudisty Header" />
+<!-- DYNAMIC STUDIO ANIMATED HEADER (LOCAL ASSET, 100% RELIABLE) -->
+<img src="assets/header_wave.svg" width="100%" alt="Daniandra Prayudisty Ilham Header" />
 
 <!-- PROFILE IDENTITY CARD (AUTHENTIC STUDIO PORTRAIT) -->
 <table>
@@ -151,8 +151,8 @@
 
 <div align="center">
 
-<!-- DYNAMIC CAPSULE RENDER ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20&height=120&section=footer" width="100%" alt="Footer Wave" />
+<!-- DYNAMIC STUDIO ANIMATED FOOTER (LOCAL ASSET, 100% RELIABLE) -->
+<img src="assets/footer_wave.svg" width="100%" alt="Footer Wave" />
 
 *“Architecture is the thoughtful making of space — both in physical systems and digital intelligence.”*  
 **Daniandra Prayudisty Ilham** • Founder &amp; Owner @ Yudiaz Creative Studio
