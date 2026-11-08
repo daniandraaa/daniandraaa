@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="65%" valign="top">
-      <h1>Hi, I'm Daniandra 👋</h1>
+      <h1>Hi, I'm Daniandra &#128075;</h1>
       <a href="https://github.com/daniandraaa">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F0FF&vCenter=true&width=530&lines=Founder+%26+Owner+%40+Yudiaz+Creative+Studio;AI+Systems+Architect+%7C+Deep+Learning;CTO+%40+Nexilium+(Bandung+Techno+Park);CTO+%40+Manterra+Asset+Logistics;CEO+%40+NgeTech+Solusi+Indonesia;OPES+Full+Scholar+at+Telkom+University;Autonomous+AI+Multi-Agent+Clusters" alt="Typing SVG" />
       </a>
