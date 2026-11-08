@@ -8,7 +8,7 @@
   <tr>
     <td align="center" width="220" style="border: none;">
       <a href="https://daniandraaa.my.id">
-        <img src="https://raw.githubusercontent.com/daniandraaa/daniandraaa/main/assets/daniandra_avatar_ring.png?v=2" width="180" alt="Daniandra Prayudisty Ilham" />
+        <img src="https://raw.githubusercontent.com/daniandraaa/daniandraaa/main/assets/daniandra_studio_blazer.png" width="180" alt="Daniandra Prayudisty Ilham" />
       </a>
       <br/>
       <b>Daniandra Prayudisty</b><br/>
