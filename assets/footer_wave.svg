@@ -1,10 +1,43 @@
-<svg width="854" height="90" viewBox="0 0 854 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="160" viewBox="0 0 1200 160" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="footGrad" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7e22ce" stop-opacity="0.7" />
-      <stop offset="50%" stop-color="#4f46e5" stop-opacity="0.6" />
-      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.7" />
+    <linearGradient id="footBg" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#030712" />
+      <stop offset="50%" stop-color="#0b1120" />
+      <stop offset="100%" stop-color="#020617" />
+    </linearGradient>
+
+    <linearGradient id="goldAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#fbbf24" />
+      <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+
+    <linearGradient id="footLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0" />
+      <stop offset="30%" stop-color="#38bdf8" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#fbbf24" stop-opacity="1" />
+      <stop offset="70%" stop-color="#a855f7" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0" />
     </linearGradient>
   </defs>
-  <path d="M0,40 Q213,0 427,35 T854,15 L854,90 L0,90 Z" fill="url(#footGrad)"/>
+
+  <!-- Base Plate -->
+  <rect width="1200" height="160" rx="16" fill="url(#footBg)" />
+
+  <!-- Top Ingress Wave Curve -->
+  <path d="M0 0 L 1200 0 L 1200 35 C 1000 65, 750 10, 500 45 C 300 70, 150 25, 0 45 Z" fill="#030712" />
+  <path d="M0 25 C 200 5, 450 60, 750 25 C 950 5, 1100 45, 1200 15" stroke="url(#footLine)" stroke-width="1.5" fill="none" opacity="0.6" />
+
+  <!-- Philosophical Quote Text -->
+  <text x="600" y="80" text-anchor="middle" fill="#e2e8f0" font-family="'Plus Jakarta Sans', -apple-system, system-ui, sans-serif" font-weight="600" font-size="14" letter-spacing="1">
+    “Architecture is the thoughtful making of space — both in physical systems and digital intelligence.”
+  </text>
+
+  <!-- Signature Badge -->
+  <text x="600" y="115" text-anchor="middle" fill="url(#goldAccent)" font-family="'JetBrains Mono', 'Fira Code', monospace" font-weight="700" font-size="12" letter-spacing="2">
+    DANIANDRA PRAYUDISTY ILHAM • YUDIAZ CREATIVE STUDIO 🇮🇩
+  </text>
+
+  <!-- Border -->
+  <rect x="0.5" y="0.5" width="1199" height="159" rx="15.5" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" />
 </svg>
