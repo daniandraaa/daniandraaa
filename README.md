@@ -10,6 +10,10 @@ CEO & Founder @ Yudiaz Creative Studio
 
 ---
 
+<table>
+  <tr>
+    <td width="55%" valign="top">
+
 ## Welcome
 
 I'm **Daniandra Prayudisty Ilham**, CEO & Founder of [Yudiaz Creative Studio](https://yudiaz.my.id) — transforming ideas into reality through innovative digital products, AI solutions, and cutting-edge technology.
@@ -31,14 +35,25 @@ I'm **Daniandra Prayudisty Ilham**, CEO & Founder of [Yudiaz Creative Studio](ht
 
 ### Focus Areas
 
-1. Product Architecture — Multi-season systems, RLS enforcement, scalable databases
-2. AI Orchestration — Team of 5 autonomous agents (Daffa, Elara, Raziel, Jovan, Orca)
-3. Automation & Scale — YouTube pipelines, content generation, smart workflows
-4. Full-Stack Mastery — React, Next.js, Node.js, Python, PostgreSQL, Supabase
+1. **Product Architecture** — Multi-season systems, RLS enforcement, scalable databases
+2. **AI Orchestration** — Team of 5 autonomous agents (Daffa, Elara, Raziel, Jovan, Orca)
+3. **Automation & Scale** — YouTube pipelines, content generation, smart workflows
+4. **Full-Stack Mastery** — React, Next.js, Node.js, Python, PostgreSQL, Supabase
+
+    </td>
+    <td width="45%" valign="middle" align="center">
+
+<img width="220" style="border-radius: 20px; border: 4px solid #3B82F6; box-shadow: 0 0 40px rgba(59, 130, 246, 0.6), 0 0 60px rgba(59, 130, 246, 0.3);" src="https://raw.githubusercontent.com/daniandraaa/daniandraaa/main/profile.jpg" alt="Daniandra Prayudisty Ilham"/>
+
+<br/><br/>
 
 ### Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/daniandra-prayudisty?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | [Email](mailto:daniandraprayudisty@gmail.com) | [Website](https://yudiaz.my.id) | [YouTube](https://youtube.com/@daniandraprayudisty6466?si=aWU2Inx5wX_-eAoI)
+[LinkedIn](https://www.linkedin.com/in/daniandra-prayudisty?utm_source=share_via&utm_content=profile&utm_medium=member_ios) · [Email](mailto:daniandraprayudisty@gmail.com) · [Website](https://yudiaz.my.id) · [YouTube](https://youtube.com/@daniandraprayudisty6466?si=aWU2Inx5wX_-eAoI)
+
+    </td>
+  </tr>
+</table>
 
 ---
 
