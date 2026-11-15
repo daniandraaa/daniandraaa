@@ -1,0 +1,54 @@
+<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes float-particles {
+        0%, 100% { opacity: 0.3; transform: translate(0, 0); }
+        50% { opacity: 0.8; transform: translate(var(--tx), var(--ty)); }
+      }
+      
+      @keyframes pulse-glow {
+        0%, 100% { r: 3px; opacity: 0.5; }
+        50% { r: 5px; opacity: 0.9; }
+      }
+      
+      .particle-1 { --tx: 20px; --ty: -15px; animation: float-particles 6s ease-in-out infinite; }
+      .particle-2 { --tx: -25px; --ty: 18px; animation: float-particles 7s ease-in-out infinite 0.5s; }
+      .particle-3 { --tx: 30px; --ty: 12px; animation: float-particles 8s ease-in-out infinite 1s; }
+      .particle-4 { --tx: -18px; --ty: -20px; animation: float-particles 6.5s ease-in-out infinite 1.5s; }
+      .particle-5 { --tx: 25px; --ty: -10px; animation: float-particles 7.5s ease-in-out infinite 2s; }
+      
+      .glow { animation: pulse-glow 3s ease-in-out infinite; }
+    </style>
+    
+    <linearGradient id="gradient-blue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#1E40AF;stop-opacity:0.4" />
+    </linearGradient>
+    
+    <linearGradient id="gradient-purple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#5B21B6;stop-opacity:0.4" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="200" fill="#0a0e27" opacity="0.5"/>
+  
+  <!-- Animated Particles -->
+  <circle cx="100" cy="50" r="3" fill="url(#gradient-blue)" class="particle-1 glow"/>
+  <circle cx="300" cy="100" r="2.5" fill="url(#gradient-purple)" class="particle-2"/>
+  <circle cx="600" cy="40" r="3.5" fill="url(#gradient-blue)" class="particle-3 glow"/>
+  <circle cx="900" cy="120" r="2" fill="url(#gradient-purple)" class="particle-4"/>
+  <circle cx="1050" cy="80" r="3" fill="url(#gradient-blue)" class="particle-5"/>
+  
+  <!-- Connection Lines (subtle) -->
+  <line x1="100" y1="50" x2="300" y2="100" stroke="#3B82F6" stroke-width="0.5" opacity="0.2"/>
+  <line x1="300" y1="100" x2="600" y2="40" stroke="#8B5CF6" stroke-width="0.5" opacity="0.2"/>
+  <line x1="600" y1="40" x2="900" y2="120" stroke="#3B82F6" stroke-width="0.5" opacity="0.2"/>
+  
+  <!-- Additional scattered particles -->
+  <circle cx="200" cy="150" r="1.5" fill="#3B82F6" opacity="0.4"/>
+  <circle cx="450" cy="180" r="1" fill="#8B5CF6" opacity="0.3"/>
+  <circle cx="750" cy="160" r="1.5" fill="#3B82F6" opacity="0.4"/>
+  <circle cx="1100" cy="30" r="1" fill="#8B5CF6" opacity="0.3"/>
+</svg>
