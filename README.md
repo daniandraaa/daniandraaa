@@ -49,10 +49,10 @@ I'm **Daniandra Prayudisty Ilham**, CEO & Founder of [**Yudiaz Creative Studio**
 
 ### 📱 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniandra/)
-[![Email](https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@daniandraaa.my.id)
-[![Website](https://img.shields.io/badge/Website-3B82F6?style=for-the-badge&logo=globe&logoColor=white)](https://daniandraaa.my.id)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ehtunggu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniandra-prayudisty?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![Email](https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniandraprayudisty@gmail.com)
+[![Website](https://img.shields.io/badge/Website-3B82F6?style=for-the-badge&logo=globe&logoColor=white)](https://yudiaz.my.id)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@daniandraprayudisty6466?si=aWU2Inx5wX_-eAoI)
 
 ### 👥 Social Proof
 
@@ -204,7 +204,7 @@ Automated science & tech explainer channel:
 ✓ Consistency & quality assurance
 ```
 
-[🎥 Subscribe Channel](https://youtube.com/@ehtunggu) • [📊 Analytics](https://youtube.com/c/ehtunggu/analytics)
+[🎥 Subscribe Channel](https://youtube.com/@daniandraprayudisty6466?si=aWU2Inx5wX_-eAoI) • [📊 Analytics](https://youtube.com/@daniandraprayudisty6466?si=aWU2Inx5wX_-eAoI)
 
     </td>
     <td width="50%" valign="top">
@@ -287,7 +287,7 @@ Intelligent team of autonomous agents:
 
 | 📊 Analytics | 🏗️ CSC Platform | 🎬 YouTube | 💼 LinkedIn |
 |:---:|:---:|:---:|:---:|
-| **[View Dashboard →](https://github-analytics-daniandraaa.vercel.app)** | **[View Repo →](https://github.com/daniandraaa/csc_management)** | **[Subscribe →](https://youtube.com/@ehtunggu)** | **[Connect →](https://linkedin.com/in/daniandra/)** |
+| **[View Dashboard →](https://github-analytics-daniandraaa.vercel.app)** | **[View Repo →](https://github.com/daniandraaa/csc_management)** | **[Subscribe →](https://youtube.com/@daniandraprayudisty6466?si=aWU2Inx5wX_-eAoI)** | **[Connect →](https://www.linkedin.com/in/daniandra-prayudisty?utm_source=share_via&utm_content=profile&utm_medium=member_ios)** |
 | React • Recharts | Next.js • Supabase | Python • Automation | Professional |
 
 </div>
@@ -344,9 +344,9 @@ I'm actively seeking opportunities to:
 
 ### Get In Touch
 
-[![Email](https://img.shields.io/badge/📧%20contact@daniandraaa.my.id-3B82F6?style=for-the-badge)](mailto:contact@daniandraaa.my.id)
-[![LinkedIn](https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/daniandra/)
-[![Website](https://img.shields.io/badge/🌍%20Visit%20Website-3B82F6?style=for-the-badge)](https://daniandraaa.my.id)
+[![Email](https://img.shields.io/badge/📧%20daniandraprayudisty@gmail.com-3B82F6?style=for-the-badge)](mailto:daniandraprayudisty@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/daniandra-prayudisty?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![YouTube](https://img.shields.io/badge/🎬%20Subscribe%20Channel-FF0000?style=for-the-badge)](https://youtube.com/@daniandraprayudisty6466?si=aWU2Inx5wX_-eAoI)
 
 </div>
 
