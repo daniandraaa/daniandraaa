@@ -43,7 +43,7 @@ I'm **Daniandra Prayudisty Ilham**, CEO & Founder of [**Yudiaz Creative Studio**
     </td>
     <td width="45%" valign="middle" align="center">
       
-<img width="220" style="border-radius: 20px; border: 4px solid #3B82F6; box-shadow: 0 0 40px rgba(59, 130, 246, 0.6); animation: pulse 2s infinite;" src="https://avatars.githubusercontent.com/u/32654233?v=4" alt="Daniandra Prayudisty Ilham"/>
+<img width="220" style="border-radius: 20px; border: 4px solid #3B82F6; box-shadow: 0 0 40px rgba(59, 130, 246, 0.6);" src="https://raw.githubusercontent.com/daniandraaa/daniandraaa/main/profile.jpg" alt="Daniandra Prayudisty Ilham"/>
 
 <br/><br/>
 
@@ -373,11 +373,4 @@ If you find my projects interesting or my work valuable, consider:
 </sub>
 
 </div>
-
-<style>
-  @keyframes pulse {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.8; }
-  }
-</style>
 
