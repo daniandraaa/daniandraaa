@@ -1,270 +1,165 @@
-<div align="center">
+# Daniandra Prayudisty Ilham
 
-# 👨‍💼 Daniandra Prayudisty Ilham
-
-### CEO & Founder @ Yudiaz Creative Studio
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=80&lines=🚀+Building+Digital+Products;🎯+Creative+Engineering;💡+Full-Stack+Visionary;✨+Empowering+through+Technology;🔥+Shipping+Tomorrow+Today)](https://github.com/daniandraaa)
+**CEO & Founder @ Yudiaz Creative Studio**
 
 ---
 
-### ✨ Premium GitHub Profile — Fully Animated & Interactive ✨
+## About Me
 
-</div>
+I'm Daniandra Prayudisty Ilham, CEO & Founder of [Yudiaz Creative Studio](https://yudiaz.my.id) — transforming ideas into reality through innovative digital products, AI solutions, and cutting-edge technology.
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      
-## 👋 Welcome to My Digital Space
+### What Drives Me
 
-I'm **Daniandra Prayudisty Ilham**, CEO & Founder of [**Yudiaz Creative Studio**](https://yudiaz.my.id) — transforming ideas into reality through innovative digital products, creative engineering, and cutting-edge technology.
+- **Building Products That Matter** — From concept to production with zero compromises
+- **AI Integration at Scale** — Leveraging Claude, OpenAI, and modern LLMs strategically
+- **Creative + Engineering** — Perfect intersection of design thinking and technical excellence
+- **End-to-End Solutions** — APIs, web apps, mobile applications, and intelligent automation
+- **Sustainable Impact** — Technology creating real value for communities
 
-### 🎯 What Drives Me
-
-- 🚀 **Building Products That Matter** — From concept to production with zero compromises
-- 🎨 **Creative + Engineering** — Perfect intersection of design thinking and technical excellence
-- 📱 **End-to-End Solutions** — APIs, web apps, mobile applications, and digital automation
-- 💼 **Product Leadership** — Scaling products with architecture-first approach
-- 🌍 **Sustainable Impact** — Technology creating real value for communities
-
-### 💼 Leadership & Vision
+### Leadership & Vision
 
 - **CEO & Founder** — Yudiaz Creative Studio
 - **Board Member** — Community Support Center (CSC)
-- **Product Architect** — Multi-season systems & scalable platforms
+- **Strategy Lead** — AI Agent Orchestration & Autonomous Systems
 - **Creator** — Eh Tunggu! (Science & Tech Education Channel)
 
-### 🏆 Focus Areas
+### Focus Areas
 
 1. **Product Architecture** — Multi-season systems, RLS enforcement, scalable databases
-2. **Digital Platform Development** — Full-stack solutions from design to deployment
-3. **Content Production** — YouTube pipelines, video generation, workflow automation
-4. **Full-Stack Engineering** — React, Next.js, Node.js, Python, PostgreSQL, Supabase
+2. **AI Orchestration** — Team of 5 autonomous agents (Daffa, Elara, Raziel, Jovan, Orca)
+3. **Automation & Scale** — YouTube pipelines, content generation, smart workflows
+4. **Full-Stack Mastery** — React, Next.js, Node.js, Python, PostgreSQL, Supabase
 
-    </td>
-    <td width="45%" valign="middle" align="center">
-      
-<img width="220" style="border-radius: 20px; border: 4px solid #3B82F6; box-shadow: 0 0 40px rgba(59, 130, 246, 0.6), 0 0 60px rgba(59, 130, 246, 0.3);" src="https://raw.githubusercontent.com/daniandraaa/daniandraaa/main/profile.jpg" alt="Daniandra Prayudisty Ilham"/>
+### Connect With Me
 
-<br/><br/>
-
-### 📱 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniandra-prayudisty?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-[![Email](https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniandraprayudisty@gmail.com)
-[![Website](https://img.shields.io/badge/Website-3B82F6?style=for-the-badge&logo=globe&logoColor=white)](https://yudiaz.my.id)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@daniandraprayudisty6466?si=aWU2Inx5wX_-eAoI)
-
-### 👥 Social Proof
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=daniandraaa&label=Profile+Views&color=3B82F6&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/daniandraaa?label=Followers&color=3B82F6&style=flat-square)
-![GitHub Stars](https://img.shields.io/badge/Stars-300%2B-3B82F6?style=flat-square)
-
-</div>
-
-    </td>
-  </tr>
-</table>
+- [LinkedIn](https://www.linkedin.com/in/daniandra-prayudisty?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- [Email](mailto:daniandraprayudisty@gmail.com)
+- [Website](https://yudiaz.my.id)
+- [YouTube](https://youtube.com/@daniandraprayudisty6466?si=aWU2Inx5wX_-eAoI)
 
 ---
 
-## 🎯 Live GitHub Analytics Dashboard
+## Tech Stack
 
-<div align="center">
+**Languages & Fundamentals**
+- TypeScript, Python, JavaScript, Go, PHP
 
-[![Analytics Dashboard](https://img.shields.io/badge/📊%20GitHub%20Analytics-Live%20Dashboard-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://analytics.daniandraaa.my.id)
+**Frontend**
+- React, Next.js, Vite, Tailwind CSS, Three.js
 
-</div>
+**Backend & Data**
+- Node.js, Express, PostgreSQL, Supabase, Firebase
 
----
+**AI & Machine Learning**
+- Claude, OpenAI, LangChain, ElevenLabs
 
-## 🐍 Contribution Snake Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniandraaa/daniandraaa/output/dist/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniandraaa/daniandraaa/output/dist/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/daniandraaa/daniandraaa/output/dist/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
----
-
-## 🛠️ Complete Tech Arsenal
-
-### 🎯 **Languages & Fundamentals**
-[![Languages](https://skillicons.dev/icons?i=typescript,python,javascript,go,php&theme=dark)](https://github.com/daniandraaa)
-
-### 🎨 **Frontend Mastery**
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs&theme=dark)](https://github.com/daniandraaa)
-
-### ⚙️ **Backend & Data**
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,firebase&theme=dark)](https://github.com/daniandraaa)
-
-### 🚀 **DevOps & Infrastructure**
-[![DevOps](https://skillicons.dev/icons?i=docker,vercel,azure,github,linux&theme=dark)](https://github.com/daniandraaa)
+**DevOps & Infrastructure**
+- Docker, Vercel, Azure, GitHub Actions, Linux
 
 ---
 
-## 🎯 Flagship Projects
+## Flagship Projects
 
-### 🏛️ **CSC Management Platform**
+### CSC Management Platform
 **Enterprise Governance & Multi-Season Architecture**
 
-✨ **Status:** ✅ Production | 👥 **Users:** 50+ | 🛣️ **Routes:** 61/61
+Status: Production | Users: 50+ | Routes: 61/61
 
-A comprehensive platform for Community Support Center governance with multi-season data isolation, RLS enforcement, and real-time analytics dashboard.
+A comprehensive platform for Community Support Center governance with multi-season data isolation, RLS enforcement, and real-time analytics.
 
-**Features:**
-- 🔐 Multi-season data isolation & row-level security
-- 👥 Role-based access control (BOE, C-Level, Manager, Staff)
-- 💰 Financial tracking & transaction management
-- 📊 Real-time reporting & analytics
-- 🔄 Season lifecycle management
+Features:
+- Multi-season data isolation & row-level security
+- Role-based access control (BOE, C-Level, Manager, Staff)
+- Financial tracking & transaction management
+- Real-time reporting & analytics
+- Season lifecycle management
 
-**Tech:** Next.js 16 · TypeScript · React · Supabase · PostgreSQL · Tailwind CSS
+Tech: Next.js 16 · TypeScript · React · Supabase · PostgreSQL
 
-[📂 Repository](https://github.com/daniandraaa/csc_management) • [🌐 Live Demo](https://csc-management.vercel.app)
+[Repository](https://github.com/daniandraaa/csc_management) | [Live Demo](https://csc-management.vercel.app)
 
 ---
 
-### 📊 **GitHub Analytics Dashboard**
+### GitHub Analytics Dashboard
 **Real-Time Contribution & Velocity Insights**
 
-✨ **Status:** ✅ Live | 🚀 **Deployed:** Vercel & VPS | ⚡ **Performance:** Lightning Fast
+Status: Live | Deployed: Vercel & VPS | Performance: Lightning Fast
 
-Interactive visualization platform with real-time contribution charts, velocity metrics, and comprehensive GitHub API integration.
+Interactive visualization platform with real-time contribution charts, velocity metrics, and GitHub API integration.
 
-**Features:**
-- 📈 Real-time contribution trends
-- 🎯 Coding velocity metrics
-- 🗣️ Language breakdown & tech stack analysis
-- 📚 Repository showcase
-- 🔄 Auto-updating data
+Features:
+- Real-time contribution trends
+- Coding velocity metrics
+- Language breakdown & tech stack analysis
+- Repository showcase
+- Auto-updating data
 
-**Tech:** React 18 · TypeScript · Recharts · GitHub API · Vercel
+Tech: React 18 · TypeScript · Recharts · GitHub API · Vercel
 
-[📂 Repository](https://github.com/daniandraaa/github-analytics) • [🚀 Live Dashboard](https://analytics.daniandraaa.my.id)
-
----
-
-### 📺 **Eh Tunggu! Education Channel**
-**Educational Content Production Platform**
-
-✨ **Status:** ✅ Active | 📤 **Uploads:** Regular | 📊 **Reach:** 200K+
-
-Educational content production platform with automated video generation, voice synthesis, and intelligent publishing.
-
-**Tech:** Python · ElevenLabs API · Faster-Whisper · YouTube API · Cloud Scheduling
-
-[🎥 Subscribe Channel](https://youtube.com/@daniandraprayudisty6466?si=aWU2Inx5wX_-eAoI)
+[Repository](https://github.com/daniandraaa/github-analytics) | [Live Dashboard](https://analytics.daniandraaa.my.id)
 
 ---
 
-## 📊 GitHub Activity & Analytics
+### Eh Tunggu! Education Channel
+**AI-Powered Educational Content Pipeline**
 
-### 🔥 Real-Time Stats
+Status: Active | Uploads: Regular | Reach: 200K+
 
-<div align="center">
+Automated educational content platform with AI video generation, ElevenLabs voice synthesis, and intelligent scheduling.
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=daniandraaa&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a1a&title_color=3B82F6&icon_color=3B82F6&text_color=fff&border_color=333&border_radius=15&card_width=500&hide=contribs)
+Tech: Python · ElevenLabs API · Faster-Whisper · YouTube API
 
-</div>
-
-### 📈 Top Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daniandraaa&layout=compact&theme=nord&hide_border=true&langs_count=10&bg_color=1a1a1a&title_color=3B82F6&text_color=fff&border_color=333&border_radius=15&card_width=500)
-
-</div>
-
-### 🎯 Contribution Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=daniandraaa&theme=nord&hide_border=true&background=1a1a1a&stroke=3B82F6&ring=3B82F6&fire=FF6B35&currStreakLabel=3B82F6&border_radius=15)](https://github.com/daniandraaa)
-
-</div>
-
-### 📊 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniandraaa&theme=nord&bg_color=1a1a1a&color=3B82F6&line=3B82F6&point=ffffff&area=true&hide_border=true&radius=8&custom_title=GitHub%20Contribution%20Activity)](https://github.com/daniandraaa)
-
-</div>
+[Subscribe](https://youtube.com/@daniandraprayudisty6466?si=aWU2Inx5wX_-eAoI)
 
 ---
 
-## 🚀 Quick Links
+### Yudiaz AI Agents Collective
+**Autonomous Multi-Agent Orchestration System**
 
-<div align="center">
+Status: Active | Agents: 6 | Tasks/Day: 100+
 
-| 📊 Analytics | 🏗️ CSC Platform | 🎬 YouTube | 💼 LinkedIn |
-|:---:|:---:|:---:|:---:|
-| **[Dashboard →](https://analytics.daniandraaa.my.id)** | **[Repository →](https://github.com/daniandraaa/csc_management)** | **[Subscribe →](https://youtube.com/@daniandraprayudisty6466?si=aWU2Inx5wX_-eAoI)** | **[Connect →](https://www.linkedin.com/in/daniandra-prayudisty?utm_source=share_via&utm_content=profile&utm_medium=member_ios)** |
-| React • Recharts | Next.js • Supabase | Education • Tech | Professional |
+Intelligent team of autonomous agents coordinating complex workflows:
+- Daffa — CEO & Orchestrator (Claude Haiku)
+- Elara — Operations Manager (Claude Haiku)
+- Raziel — CTO & Infrastructure (Claude Haiku)
+- Jovan — Intelligence & Research (Claude Haiku)
+- Orca — LaTeX & Documents (Claude Haiku)
+- Adam — Specialist Exception (Gemini 3.8)
 
-</div>
-
----
-
-## 🎓 Learning Journey
-
-```
-2026  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  ✨ Multi-season systems, analytics, automation
-2025  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░  🚀 CSC platform foundation, data architecture
-2024  ▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░  🔧 Next.js mastery, backend optimization
-2023  ▰▰▰▰▰▰▰▰░░░░░░░░░░░░  🎯 System architecture, design fundamentals
-2022  ▰▰▰▰▰░░░░░░░░░░░░░░░░  🌱 Studio foundation, product strategy
-2021  ▰▰░░░░░░░░░░░░░░░░░░░░  🎓 Tech exploration, learning fundamentals
-```
+Tech: Hermes Agent · Claude Haiku · Gemini 3.8 · Telegram API
 
 ---
 
-## 💡 Philosophy
+## GitHub Statistics
 
-> **"Great products are built by great people solving real problems with excellence and integrity."**
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=daniandraaa&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a1a&title_color=3B82F6&icon_color=3B82F6&text_color=fff)
+
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daniandraaa&layout=compact&theme=nord&hide_border=true&langs_count=10&bg_color=1a1a1a&title_color=3B82F6&text_color=fff)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=daniandraaa&theme=nord&hide_border=true&background=1a1a1a&stroke=3B82F6)
+
+---
+
+## Philosophy
+
+**"Great products are built by great people solving real problems with excellence and integrity."**
 
 ### Core Principles
 
-1. **🎯 Clarity First** — Understand problems deeply before building
-2. **🚀 Excellence Always** — Zero compromises on quality & UX
-3. **🤝 People Matter** — Invest in teams and culture
-4. **💡 Innovation Daily** — Constantly explore and improve
-5. **🌍 Impact Driven** — Build technology creating real value
+1. **Clarity First** — Understand problems deeply before building
+2. **Excellence Always** — Zero compromises on quality and UX
+3. **People Matter** — Invest in teams and culture
+4. **Innovation Daily** — Constantly explore and improve
+5. **Impact Driven** — Build technology creating real value
 
 ---
 
-## 🤝 Let's Collaborate
+## Let's Collaborate
 
 I'm actively seeking opportunities to:
+- Build innovative products with visionary founders & teams
+- Share knowledge with the tech community
+- Discuss architecture & solutions for complex challenges
+- Explore opportunities in creative technology & social impact
 
-- 🚀 **Build innovative products** with visionary founders & teams
-- 🎓 **Share knowledge** with the tech community
-- 💬 **Discuss architecture** & solutions for complex challenges
-- 🌟 **Create impact** through digital products
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📧%20daniandraprayudisty@gmail.com-3B82F6?style=for-the-badge)](mailto:daniandraprayudisty@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/daniandra-prayudisty?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-[![YouTube](https://img.shields.io/badge/🎬%20YouTube-FF0000?style=for-the-badge)](https://youtube.com/@daniandraprayudisty6466?si=aWU2Inx5wX_-eAoI)
-
-</div>
-
----
-
-<div align="center">
-
-<sub>
-  🚀 <b>Constantly innovating. Always shipping. No excuses.</b><br/>
-  ✨ <b>Premium Animated GitHub Profile</b> — Yudiaz Creative Studio<br/>
-  Features: Live Analytics • Snake Animation • Real-Time Stats • Multiple Animations<br/>
-  <i>Last Updated: November 2026</i>
-</sub>
-
-</div>
+Get in touch: [daniandraprayudisty@gmail.com](mailto:daniandraprayudisty@gmail.com)
