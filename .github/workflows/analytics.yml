@@ -1,0 +1,50 @@
+name: Refresh profile analytics
+
+on:
+  schedule:
+    - cron: '23 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/generate_analytics.py'
+      - 'tests/**'
+      - '.github/workflows/analytics.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-analytics
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test generator
+        run: python -m unittest discover -s tests -v
+      - name: Collect GitHub data and render local assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/generate_analytics.py --username daniandraaa
+      - name: Validate generated assets
+        run: python -m unittest discover -s tests -v
+      - name: Commit refreshed analytics when changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/github-data.json assets/overview.svg assets/contributions.svg assets/languages.svg
+          if git diff --cached --quiet; then
+            echo 'No analytics changes.'
+            exit 0
+          fi
+          git commit -m 'chore: refresh GitHub profile analytics'
+          git push origin HEAD:main
