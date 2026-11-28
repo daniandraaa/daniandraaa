@@ -40,6 +40,44 @@ class AnalyticsTests(unittest.TestCase):
         self.assertIn('prefers-reduced-motion', calendar)
         self.assertIn('@keyframes scan', calendar)
 
+    def test_skill_strips_have_real_labeled_self_contained_logos(self):
+        import json
+        import xml.etree.ElementTree as ET
+        ns = {'s': 'http://www.w3.org/2000/svg'}
+        expected = {
+            'skills-languages.svg': ['Python', 'TypeScript', 'JavaScript', 'Go', 'PHP', 'Dart'],
+            'skills-frameworks.svg': ['React', 'Next.js', 'Flutter', 'Laravel', 'Tailwind CSS'],
+            'skills-ai-devops.svg': ['PyTorch', 'Docker', 'PostgreSQL', 'Supabase', 'Git', 'Linux'],
+        }
+        manifest = json.loads((ROOT / 'assets/skills/sources.json').read_text())
+        for filename, labels in expected.items():
+            with self.subTest(asset=filename):
+                source = (ROOT / 'assets' / filename).read_text()
+                svg = ET.fromstring(source)
+                self.assertEqual(svg.tag, '{http://www.w3.org/2000/svg}svg')
+                self.assertIsNotNone(svg.find('s:title', ns))
+                self.assertIsNotNone(svg.find('s:desc', ns))
+                logos = svg.findall("s:g[@data-brand]", ns)
+                self.assertEqual([g.get('data-brand') for g in logos], labels)
+                self.assertLessEqual(len(logos), 6)
+                for group in logos:
+                    label = group.get('data-brand')
+                    self.assertIn(label, [t.text for t in group.findall('.//s:text', ns)])
+                    paths = group.findall('.//s:path', ns)
+                    self.assertTrue(paths, label)
+                    self.assertEqual([p.get('d') for p in paths], manifest[label]['paths'])
+                    self.assertTrue(all(p.get('d', '').strip() for p in paths))
+                    self.assertTrue(manifest[label]['url'].startswith('https://cdn.jsdelivr.net/npm/simple-icons@'))
+                for element in svg.iter():
+                    self.assertNotIn(element.tag.split('}')[-1].lower(), ('script', 'image', 'foreignobject', 'use'))
+                    for key, value in element.attrib.items():
+                        self.assertNotEqual(key.split('}')[-1].lower(), 'href')
+                        self.assertFalse(key.lower().startswith('on'))
+                        self.assertNotIn('url(', value.lower())
+                self.assertNotIn('@import', source)
+        self.assertTrue((ROOT / 'assets/skills/ATTRIBUTION.md').is_file())
+        self.assertIn('CC0', (ROOT / 'assets/skills/LICENSE.simple-icons').read_text())
+
     def test_snapshot_calendar_totals_and_scope(self):
         import json
         from datetime import date

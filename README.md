@@ -32,14 +32,42 @@ CEO & Founder at **Yudiaz Creative Studio** · Board Member at **Community Suppo
 | **Eh Tunggu!** | Science and technology storytelling, supported by AI video, voice synthesis, and publishing automation. | Python · ElevenLabs · Faster-Whisper · YouTube API<br>[Channel](https://youtube.com/@daniandraprayudisty6466?si=aWU2Inx5wX_-eAoI) |
 | **Yudiaz AI Agents Collective** | Autonomous agents coordinating operations, infrastructure, research, and document workflows. | Hermes Agent · Claude · Telegram API |
 
-## 02 / Tools of the work
+## 02 / Background & impact
+
+- **Informatics, Telkom University** — recipient of the One Pipe Education System (**OPES**) scholarship. [LinkedIn][linkedin-source]
+- **Quality assurance experience at PT XL Axiata Tbk** — developed Excel VBA macros for test-case generation and endpoint verification in IT Core Charging. [LinkedIn][linkedin-source]
+- **Research interests** — hybrid CNN–Transformer architectures, GANs, and explainable AI with SHAP. [LinkedIn][linkedin-source]
+- **Technology & community leadership** — Founder of CSC Telkom University and Co-Founder of helPhin.id; experience connecting software delivery, organizational operations, and public speaking. [LinkedIn][linkedin-source]
+- **Campus engagement** — Event Division, Tim Budi Pekerti Telkom University, listed in the university's 2024 roster. [University source][university-source]
+- **Duta Cari Aman, Astra Motor Sulawesi Selatan (2023)** — selected as a safety-riding ambassador, with training in public speaking, writing, safety riding, and creative content. [Astra Honda Motor][honda-source]
+
+<details>
+<summary>Public sources & context</summary>
+
+Professional and education details above are self-reported on my public LinkedIn profile. The campus role and ambassador recognition are additionally documented by Telkom University and Astra Honda Motor. Historical experience is not presented as a current appointment. Sensitive identifiers and contact details from third-party listings are intentionally excluded.
+
+</details>
+
+[linkedin-source]: https://linkedin.com/in/daniandra-prayudisty
+[university-source]: https://budipekerti.orgs.telkomuniversity.ac.id/kepengurusan-2024
+[honda-source]: https://www.astra-honda.com/article/asmo-sulsel-tetapkan-duta-cari-aman-edukasi-masyarakat-berkendara-dengan-aman
+
+## 03 / Tools of the work
+
+<img src="assets/skills-languages.svg" width="100%" alt="Languages: Python, TypeScript, JavaScript, Go, PHP, Dart" />
+
+<img src="assets/skills-frameworks.svg" width="100%" alt="Frameworks: React, Next.js, Flutter, Laravel, Tailwind CSS" />
+
+<img src="assets/skills-ai-devops.svg" width="100%" alt="AI and systems: PyTorch, Docker, PostgreSQL, Supabase, Git, Linux" />
+
+<sub>Technology logos identify tools used or studied, not certification or proficiency scores. [Logo sources and licensing](assets/skills/ATTRIBUTION.md).</sub>
 
 **Languages** — TypeScript, Python, JavaScript, Go, PHP<br>
 **Interface** — React, Next.js, Vite, Tailwind CSS, Three.js<br>
 **Systems & data** — Node.js, Express, PostgreSQL, Supabase, Firebase<br>
 **AI & delivery** — Claude, OpenAI, LangChain, ElevenLabs · Docker, Vercel, Azure, GitHub Actions, Linux
 
-## 03 / GitHub, in context
+## 04 / GitHub, in context
 
 <img src="assets/overview.svg" width="100%" alt="GitHub contribution total and active days for the labeled UTC window, plus current public non-fork repository and star totals" />
 
@@ -59,7 +87,7 @@ These are **committed local assets**, not third-party stats embeds. A [daily wor
 
 </details>
 
-## 04 / Let's build something that matters.
+## 05 / Let's build something that matters.
 
 I welcome conversations about product architecture, creative technology, community impact, and building with thoughtful teams.
 
